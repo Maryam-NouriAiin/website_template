@@ -38,24 +38,3 @@
 <a href="mailto:maryam.nouri-aiin@uvm.edu">
   <img align="left" alt="Email" width="25px" style="margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
 </a>
-
-
-
-
-
-
-
-
-
-    sidebar:
-      style: floating
-      search: false
-      contents:
-        - text: "Home"
-          href: index.qmd
-        - text: "Now"
-          href: now.qmd
-      tools:
-        - icon: link
-          text: Website
-          href: https://www.maryam-nouriaiin.com/
