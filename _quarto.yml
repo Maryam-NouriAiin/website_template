@@ -1,0 +1,44 @@
+project:
+  type: "website"
+  title: "Website Template"
+  output-dir: _output
+  render:
+    - "index.qmd"
+    - "about.qmd"
+
+format:
+  html: 
+    theme:
+      light: flatly
+    css: styles.css
+    grid:
+      sidebar-width: 240px
+      body-width: 1100px
+      margin-width: 200px
+      gutter-width: 1.5rem
+
+website:
+  title: "Website Template"
+
+  sidebar:
+    contents:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+
+  navbar:
+    background: "#2e4053"
+    foreground: "#f4f6f6"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+
+
+  page-footer:
+    left: |
+      <a href="https://www.maryam-nouriaiin.com/"><i class="bi bi-link"></i> Website</a><br>
+    right: |
+      <a href="mailto:maryam.nouri-aiin@uvm.edu"><i class="bi bi-envelope"></i> Email</a><br>
