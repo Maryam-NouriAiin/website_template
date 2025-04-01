@@ -39,4 +39,53 @@
   <img align="left" alt="Email" width="25px" style="margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
 </a>
 
+<br>
+<br>
 
+# Quarto Website Template
+
+Welcome! This is a customizable [Quarto](https://quarto.org/) website template designed for researchers, academics, and professionals looking to quickly build a clean and functional personal or lab website.
+
+✨ Built by [Maryam Nouri-Aiin](https://www.maryam-nouriaiin.com/) | @ UVM
+
+---
+
+## 🚀 Features
+
+- Clean and mobile-responsive layout
+- Custom sidebar and navbar
+- Pre-built pages: `index.qmd`, `about.qmd`
+- Optional Netlify deployment + GitHub Pages support
+- Easy styling with `styles.css`
+- Basic authentication scaffold (`login.html`, `netlify.toml`)
+
+---
+
+## 📦 How to Use
+
+1. **Click "Use this template"** on GitHub
+2. Customize the `.qmd` files and `quarto.yml`
+3. Push to your own GitHub repo
+4. Enable GitHub Pages (or use Netlify)
+
+More detailed setup instructions: [link to a getting started guide if you have one]
+
+---
+
+## 🧠 Tips
+
+- Customize your site's theme in `quarto.yml`
+- Use Quarto's built-in support for [projects](https://quarto.org/docs/projects/) and [blogging](https://quarto.org/docs/blog/)
+- For academic use, consider adding a publications section (I can help with that too!)
+
+---
+
+## 🙏 Acknowledgment & Credit
+
+If you find this template helpful, **please consider acknowledging** me in one of the following ways:
+
+- ⭐ Star this repo
+- Include a small credit link in your website footer:
+  
+  ```html
+  <a href="https://github.com/Maryam-NouriAiin/website_template" target="_blank">Template by Maryam Nouri-Aiin</a>
