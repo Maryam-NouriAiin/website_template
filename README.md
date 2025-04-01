@@ -44,9 +44,9 @@
 
 # Quarto Website Template
 
-Welcome! This is a customizable [Quarto](https://quarto.org/) website template designed for researchers, academics, and professionals looking to quickly build a clean and functional personal or lab website.
+Welcome! [This](https://maryam-nouriaiin.github.io/website_template/) is a customizable [Quarto](https://quarto.org/) website template designed for researchers, academics, and professionals looking to quickly build a clean and functional personal or lab website.
 
-✨ Built by [Maryam Nouri-Aiin](https://www.maryam-nouriaiin.com/) | @ UVM
+✨ Built by [Maryam Nouri-Aiin](https://www.maryam-nouriaiin.com/).
 
 ---
 
