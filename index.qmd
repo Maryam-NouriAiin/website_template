@@ -21,7 +21,7 @@ title: "My Site"
 </figure>
 :::
 
-::
+:::
 
 ---
 
