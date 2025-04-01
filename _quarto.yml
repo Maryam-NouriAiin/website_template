@@ -1,6 +1,5 @@
 project:
   type: "website"
-  title: "Website Template"
   output-dir: _output
   render:
     - "index.qmd"
@@ -35,7 +34,6 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
-
 
   page-footer:
     left: |
