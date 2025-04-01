@@ -26,6 +26,9 @@ jobs:
           pip install jupyter plotly pandas
 
       - name: Render Quarto Project
+        run: quarto render
+
+      - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
